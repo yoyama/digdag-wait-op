@@ -25,9 +25,7 @@ public class WaitOperatorFactory
 
     @Inject
     public WaitOperatorFactory()
-    {
-
-    }
+    { }
 
     @Override
     public String getType() {
